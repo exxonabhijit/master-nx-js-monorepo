@@ -1,0 +1,33 @@
+{
+  "name": "react-apps-react-app-one-e2e",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/react-apps/react-app-one-e2e/src",
+  "projectType": "application",
+  "targets": {
+    "e2e": {
+      "executor": "@nx/cypress:cypress",
+      "options": {
+        "cypressConfig": "apps/react-apps/react-app-one-e2e/cypress.config.ts",
+        "devServerTarget": "react-apps-react-app-one:serve:development",
+        "testingType": "e2e"
+      },
+      "configurations": {
+        "production": {
+          "devServerTarget": "react-apps-react-app-one:serve:production"
+        },
+        "ci": {
+          "devServerTarget": "react-apps-react-app-one:serve-static"
+        }
+      }
+    },
+    "lint": {
+      "executor": "@nx/linter:eslint",
+      "outputs": ["{options.outputFile}"],
+      "options": {
+        "lintFilePatterns": ["apps/react-apps/react-app-one-e2e/**/*.js"]
+      }
+    }
+  },
+  "tags": [],
+  "implicitDependencies": ["react-apps-react-app-one"]
+}
