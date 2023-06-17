@@ -32,7 +32,7 @@ The `next-apps` folder contains projects built with Next.js.
 Description: This project serves as an example Next.js application.
 
 - Setup:
-  - Clone the repository: `git clone <repository-url>`
+  - Clone the repository: `git clone https://github.com/exxonabhijit/master-nx-js-monorepo.git`
   - Navigate to the project directory: `cd apps/next-apps/next-app-one`
   - Install dependencies: `npm install`
 
@@ -45,7 +45,7 @@ Description: This project serves as an example Next.js application.
 Description: This project showcases the usage of Next.js with specific features.
 
 - Setup:
-  - Clone the repository: `git clone <repository-url>`
+  - Clone the repository: `git clone https://github.com/exxonabhijit/master-nx-js-monorepo.git`
   - Navigate to the project directory: `cd apps/next-apps/next-app-two`
   - Install dependencies: `npm install`
 
@@ -62,7 +62,7 @@ The `react-apps` folder contains projects built with React.
 Description: This project demonstrates the usage of React for building scalable web applications.
 
 - Setup:
-  - Clone the repository: `git clone <repository-url>`
+  - Clone the repository: `git clone https://github.com/exxonabhijit/master-nx-js-monorepo.git`
   - Navigate to the project directory: `cd apps/react-apps/react-app-one`
   - Install dependencies: `npm install`
 
@@ -75,7 +75,7 @@ Description: This project demonstrates the usage of React for building scalable 
 Description: This project showcases advanced React techniques and patterns.
 
 - Setup:
-  - Clone the repository: `git clone <repository-url>`
+  - Clone the repository: `git clone https://github.com/exxonabhijit/master-nx-js-monorepo.git`
   - Navigate to the project directory: `cd apps/react-apps/react-app-two`
   - Install dependencies: `npm install`
 
@@ -92,7 +92,7 @@ The `mobile-apps` folder contains projects built for mobile platforms.
 Description: This project focuses on developing cross-platform mobile applications using frameworks like React Native.
 
 - Setup:
-  - Clone the repository: `git clone <repository-url>`
+  - Clone the repository: `git clone https://github.com/exxonabhijit/master-nx-js-monorepo.git`
   - Navigate to the project directory: `cd apps/mobile-apps/mobile-app-one`
   - Install dependencies: `npm install`
 
@@ -105,7 +105,7 @@ Description: This project focuses on developing cross-platform mobile applicatio
 Description: This project showcases the usage of specific mobile development frameworks or technologies.
 
 - Setup:
-  - Clone the repository: `git clone <repository-url>`
+  - Clone the repository: `git clone https://github.com/exxonabhijit/master-nx-js-monorepo.git`
   - Navigate to the project directory: `cd apps/mobile-apps/mobile-app-two`
   - Install dependencies: `npm install`
 
