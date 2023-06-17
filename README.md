@@ -45,9 +45,18 @@ Description: This project serves as an example Next.js application.
 Description: This project showcases the usage of Next.js with specific features.
 
 - Setup:
-  - Clone the repository: `git clone https://github.com/exxonabhijit/master-nx-js-monorepo.git`
-  - Navigate to the project directory: `cd apps/next-apps/next-app-two`
-  - Install dependencies: `npm install`
+  - Clone the repository:
+  ```
+  git clone https://github.com/exxonabhijit/master-nx-js-monorepo.git
+  ```
+  - Navigate to the project directory:
+  ```
+  cd apps/next-apps/next-app-two
+  ```
+  - Install dependencies:
+    ```
+    npm install
+    ```
 
 - Development:
   - Run the development server: `npm run dev`
