@@ -32,13 +32,28 @@ The `next-apps` folder contains projects built with Next.js.
 Description: This project serves as an example Next.js application.
 
 - Setup:
-  - Clone the repository: `git clone https://github.com/exxonabhijit/master-nx-js-monorepo.git`
-  - Navigate to the project directory: `cd apps/next-apps/next-app-one`
-  - Install dependencies: `npm install`
+  - Clone the repository:
+    ```
+    git clone https://github.com/exxonabhijit/master-nx-js-monorepo.git
+    ```
+  - Navigate to the project directory:
+    ```
+    cd apps/next-apps/next-app-one
+    ```
+  - Install dependencies:
+    ```
+    npm install
+    ```
 
 - Development:
-  - Run the development server: `npm run dev`
-  - Access the app at: `http://localhost:3000`
+  - Run the development server:
+    ```
+    npm run dev
+    ```
+  - Access the app at:
+    ```
+    http://localhost:3000
+    ```
 
 #### Next App Two
 
@@ -46,21 +61,27 @@ Description: This project showcases the usage of Next.js with specific features.
 
 - Setup:
   - Clone the repository:
-  ```
-  git clone https://github.com/exxonabhijit/master-nx-js-monorepo.git
-  ```
+    ```
+    git clone https://github.com/exxonabhijit/master-nx-js-monorepo.git
+    ```
   - Navigate to the project directory:
-  ```
-  cd apps/next-apps/next-app-two
-  ```
+    ```
+    cd apps/next-apps/next-app-two
+    ```
   - Install dependencies:
     ```
     npm install
     ```
 
 - Development:
-  - Run the development server: `npm run dev`
-  - Access the app at: `http://localhost:3000`
+  - Run the development server:
+    ```
+    npm run dev
+    ```
+  - Access the app at:
+    ```
+    http://localhost:3000
+    ```
 
 ### React Apps
 
@@ -71,26 +92,56 @@ The `react-apps` folder contains projects built with React.
 Description: This project demonstrates the usage of React for building scalable web applications.
 
 - Setup:
-  - Clone the repository: `git clone https://github.com/exxonabhijit/master-nx-js-monorepo.git`
-  - Navigate to the project directory: `cd apps/react-apps/react-app-one`
-  - Install dependencies: `npm install`
+  - Clone the repository:
+    ```
+    git clone https://github.com/exxonabhijit/master-nx-js-monorepo.git
+    ```
+  - Navigate to the project directory:
+    ```
+    cd apps/react-apps/react-app-one
+    ```
+  - Install dependencies:
+    ```
+    npm install
+    ```
 
 - Development:
-  - Run the development server: `npm start`
-  - Access the app at: `http://localhost:3000`
+  - Run the development server:
+    ```
+    npm start
+    ```
+  - Access the app at:
+    ```
+    http://localhost:3000
+    ```
 
 #### React App Two
 
 Description: This project showcases advanced React techniques and patterns.
 
 - Setup:
-  - Clone the repository: `git clone https://github.com/exxonabhijit/master-nx-js-monorepo.git`
-  - Navigate to the project directory: `cd apps/react-apps/react-app-two`
-  - Install dependencies: `npm install`
+  - Clone the repository:
+    ```
+    git clone https://github.com/exxonabhijit/master-nx-js-monorepo.git
+    ```
+  - Navigate to the project directory:
+    ```
+    cd apps/react-apps/react-app-two
+    ```
+  - Install dependencies:
+    ```
+    npm install
+    ```
 
 - Development:
-  - Run the development server: `npm start`
-  - Access the app at: `http://localhost:3000`
+  - Run the development server:
+    ```
+    npm start
+    ```
+  - Access the app at:
+    ```
+    http://localhost:3000
+    ```
 
 ### Mobile Apps
 
@@ -101,26 +152,23 @@ The `mobile-apps` folder contains projects built for mobile platforms.
 Description: This project focuses on developing cross-platform mobile applications using frameworks like React Native.
 
 - Setup:
-  - Clone the repository: `git clone https://github.com/exxonabhijit/master-nx-js-monorepo.git`
-  - Navigate to the project directory: `cd apps/mobile-apps/mobile-app-one`
-  - Install dependencies: `npm install`
+  - Clone the repository:
+    ```
+    git clone https://github.com/exxonabhijit/master-nx-js-monorepo.git
+    ```
+  - Navigate to the project directory:
+    ```
+    cd apps/mobile-apps/mobile-app-one
+    ```
+  - Install dependencies:
+    ```
+    npm install
+    ```
 
 - Development:
   - Run the development server: `npm start`
   - Access the app on your mobile device using Expo or other relevant tools.
 
-#### Mobile App Two
-
-Description: This project showcases the usage of specific mobile development frameworks or technologies.
-
-- Setup:
-  - Clone the repository: `git clone https://github.com/exxonabhijit/master-nx-js-monorepo.git`
-  - Navigate to the project directory: `cd apps/mobile-apps/mobile-app-two`
-  - Install dependencies: `npm install`
-
-- Development:
-  - Run the development server: `npm start`
-  - Access the app on your mobile device using Expo or other relevant tools.
 
 ## Packages
 
