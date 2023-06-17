@@ -7,7 +7,7 @@
 
 ## Introduction
 
-This monorepo contains multiple projects built using various technologies. It aims to provide a centralized development environment, enabling code sharing, efficient collaboration, and simplified maintenance. The `packages` folder contains reusable UI pages, components, services, and utilities that are commonly used in the apps' projects, making them more efficient.
+This monorepo contains multiple projects built using various technologies. It aims to provide a centralized development environment, enabling code sharing, efficient collaboration, and simplified maintenance. The `packages` folder contains reusable UI pages, components, services, and utilities that are commonly used in the `apps` projects, making them more efficient.
 
 ## Table of Contents
 
