@@ -1,4 +1,4 @@
-# My Monorepo
+# My NX Monorepo Workspace
 
 > A centralized repository containing multiple projects, utilizing a monorepo structure for efficient development and code sharing.
 
