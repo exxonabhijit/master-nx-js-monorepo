@@ -60,6 +60,8 @@
   },
   "workspaces": [
     "packages/*",
-    "apps/**"
+    "apps/*",
+    "next-apps/*",
+    "react-apps/*"
   ]
 }
